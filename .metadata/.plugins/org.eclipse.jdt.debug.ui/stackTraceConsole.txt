@@ -1,0 +1,2 @@
+Choose employee type: (m) manager (h) hourly (c) commission (p) pieceworker: c ←-
+Enter weekly sales: 5420.65 

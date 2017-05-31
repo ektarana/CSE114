@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;FXlearn.java&apos; to &apos;Tests&apos;&#x0A;- Original project: &apos;Scrimish&apos;&#x0A;- Destination element: &apos;Tests&apos;&#x0A;- Original element: &apos;FXlearn.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Tests" element1="/src&lt;{FXlearn.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1481198048643" units="1" version="1.0"/>
+</session>
